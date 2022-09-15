@@ -32,7 +32,7 @@
 
 
 
-> ## Project Two  :  [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb) to practice Supervised Learning  
+> ## Project Two  :  [Create Your Own Image Classifier - TensorFlow]() 
 
 =================================================
 
