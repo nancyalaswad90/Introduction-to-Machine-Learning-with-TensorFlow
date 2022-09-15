@@ -19,7 +19,7 @@
 
 
 
-##  Finding Donors for CharityML
+##  [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb)
 .
 
 ![cup one](https://user-images.githubusercontent.com/36210723/190481419-a5619f9c-c267-4062-8b3d-4ede2abc3aa2.png)
