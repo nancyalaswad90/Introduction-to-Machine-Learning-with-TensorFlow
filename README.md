@@ -32,7 +32,7 @@
 
 
 
-> ## Project Two  :  [Create Your Own Image Classifier - TensorFlow]() 
+> ## Project Two  :  [Create Your Own Image Classifier - TensorFlow](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Project_Image_Classifier_Project.ipynb) 
 
 =================================================
 
