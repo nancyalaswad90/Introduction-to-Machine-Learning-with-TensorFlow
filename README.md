@@ -38,3 +38,9 @@
 
 
 .
+
+![pass 2](https://user-images.githubusercontent.com/36210723/190491213-7eb27559-c7c3-407e-8c8b-7df6cc4ea32d.png)
+
+
+.
+
