@@ -13,13 +13,11 @@
 .
 
 
-> ## Project one : To practice Supervised Learning  
+> ## Project one  :  [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb) to practice Supervised Learning  
 
 =================================================
 
 
-
-##  [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb)
 .
 
 ![cup one](https://user-images.githubusercontent.com/36210723/190481419-a5619f9c-c267-4062-8b3d-4ede2abc3aa2.png)
@@ -30,3 +28,13 @@
 .
 
 ![pass 1](https://user-images.githubusercontent.com/36210723/190481825-455b76c9-7d69-4ee8-a20a-fd5ff2762963.png)
+
+
+
+
+> ## Project Two  :  [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb) to practice Supervised Learning  
+
+=================================================
+
+
+.
