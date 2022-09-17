@@ -20,7 +20,7 @@
 
 - [Create Your Own Image Classifier - TensorFlow](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Project_Image_Classifier_Project.ipynb) 
 
-- Identify Customer Segments
+- [Identify Customer Segments](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/NancyProject_Identify_Customer_Segments---last%20update.ipynb)
 
 
 .
