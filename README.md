@@ -12,6 +12,19 @@
 
 .
 
+> ##  The projects :
+
+> ====================
+
+- [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb) to practice Supervised Learning
+
+- [Create Your Own Image Classifier - TensorFlow](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Project_Image_Classifier_Project.ipynb) 
+
+- Identify Customer Segments
+
+
+.
+
 
 > ## Project one  :  [Finding Donors for CharityML](https://github.com/nancyalaswad90/Introduction-to-Machine-Learning-with-TensorFlow/blob/main/Nancy_finding_donors.ipynb) to practice Supervised Learning  
 
